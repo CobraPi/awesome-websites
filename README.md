@@ -403,6 +403,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [http://poolside.fm](http://poolside.fm/) : The 80's never ended. Travel back in time and experience what it was like!
 * [http://www.printwhatyoulike.com](http://www.printwhatyoulike.com/) : This amazing website lets you print the good parts of any web page while skipping ads and other junk.
 * [https://pdfcandy.com](https://pdfcandy.com/) : Edit PDF free with online PDF editor. :free:
+* [https://practicalwebtools.com](https://practicalwebtools.com/) : 1,400+ free browser tools - PDF editors & converters, file/image/audio converters, 200+ calculators. All client-side, no uploads. :free:
 * [http://protondrive.com](http://protondrive.com/) : Secure digital storage for your online files and data. End-to-end encrypted and based in Switzerland. :key:
 * [http://www.patience-is-a-virtue.org](http://www.patience-is-a-virtue.org/) : Website that loads surprisingly fast! :arrows_counterclockwise:
 * [http://pective.com](http://pective.com/) : Pective displays the actual size of any item on your monitor.
